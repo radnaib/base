@@ -1,3 +1,19 @@
+### MIT1 Laboratory
+
+Now I am extending the ```README``` file in the base folder.
+_This is probably the third time I am using **Vim**._
+
+During the lab I will extend my knowledge about:
+1. version control
+	* Git
+1. automatic build
+	* Gradle
+1. continuous integration
+	* Travis CI
+
+> 'Here's my first quote in Markdown.
+
+
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
