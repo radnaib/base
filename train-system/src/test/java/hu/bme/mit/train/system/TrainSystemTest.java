@@ -72,12 +72,4 @@ public class TrainSystemTest {
 		Assert.assertEquals(0, controller.getReferenceSpeed());
 	}
 
-	@Test
-	public void OverridingJoystickPositionToPositive_SetsReferenceSpeedToZero() {
-		user.overrideJoystickPosition(-3);
-		controller.followSpeed();
-		user.overrideJoystickPosition(4);
-		controller.followSpeed();
-		Assert.assertEquals(0, controller.getReferenceSpeed());
-	}
 }
