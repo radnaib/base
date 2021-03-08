@@ -5,7 +5,7 @@ _This is probably the third time I am using **Vim**._
 
 During the lab I will extend my knowledge about:
 1. version control
-	* GitHub hosting Git
+	* Git hosted by GitHub
 1. automatic build
 	* Gradle
 1. continuous integration
